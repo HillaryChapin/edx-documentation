@@ -56,14 +56,14 @@ if on_rtd:
     html_context["github_base_account"] = 'edx'
     html_context["github_project"] = 'edx-documentation'
 
-html_theme = 'edx_theme'
+#html_theme = 'edx_theme'
 
-html_theme_path = [edx_theme.get_html_theme_path()]
+#html_theme_path = [edx_theme.get_html_theme_path()]
 
-html_theme_options = {}
-html_theme_options['navigation_depth'] = 3
+#html_theme_options = {}
+#html_theme_options['navigation_depth'] = 3
 
-html_favicon = os.path.join(edx_theme.get_html_theme_path(), 'edx_theme', 'static', 'css', 'favicon.ico')
+#html_favicon = os.path.join(edx_theme.get_html_theme_path(), 'edx_theme', 'static', 'css', 'favicon.ico')
 
 # Help and Feedback links.  These are customized for the category and audience
 # of the book.  Add a line to the book's conf.py like this:
