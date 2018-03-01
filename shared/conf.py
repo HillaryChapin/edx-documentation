@@ -5,7 +5,7 @@ import os
 import sys
 import urllib
 
-import edx_theme
+#import edx_theme
 
 # on_rtd is whether we are on readthedocs.io, this line of code grabbed from docs.readthedocs.io
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
