@@ -17,7 +17,7 @@ The edX platform is routinely tested and verified on the current version and
 the previous version of each of these browsers. We generally encourage the use
 of, and fully support only, the latest version.
 
-.. caution:: If you use the Safari browser, be aware that it does not support the
+.. caution::  If you use the Safari browser, be aware that it does not support the
  search feature for the guides on `docs.edx.org`_. This is a known limitation.
 
 .. include:: ../../../links/links.rst
