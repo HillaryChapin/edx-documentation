@@ -327,7 +327,7 @@ community can post and discuss questions in our public research forum: the
 The edX partner portal also offers community `forums`_, including a Research
 and Analytics topic, for discussions among edX partners.
 
-.. important:: Please do not post sensitive data to public forums.
+.. caution:: Please do not post sensitive data to public forums.
 
 Data czars who have questions that involve sensitive data, or that are
 institution specific, can send them by email to data.support@edx.org
